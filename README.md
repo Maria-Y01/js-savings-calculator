@@ -1,1 +1,1 @@
-# js-savings-calculator
+# Savings calculator
